@@ -1,2 +1,2 @@
 # Cobranza_UCE
-UCE 2.0 Better Function implementations, cleaner, faster and more reliable. 
+Mejor manejo de las funciones, variables, archivos. Un sistema mas rapido, confiable y limpio.
